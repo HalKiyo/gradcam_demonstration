@@ -1,0 +1,5 @@
+numpy
+tensorflow>=2.12
+matplotlib
+cartopy
+h5py
